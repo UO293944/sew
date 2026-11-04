@@ -1,0 +1,127 @@
+/* ***************************************/
+/*             LaVuelta2026              */
+/*          Estilos generales            */
+/* ***************************************/
+/*    DATOS ESTUDIANTE                   */
+/* --------------------------------------*/
+/*  Nombre y Apellidos: David Álvarez Cabezas */
+/*  Correo electrónico (uniovi): UO293944 */
+/*  Grupo de laboratorio: Jueves?         */
+/* ***************************************/
+
+/* Gama cromática
+   Color principal: #7A0C0C (rojo oscuro)
+     o Contraste de 10.02:1 con color secundario (AAA)
+     o Contraste de 11.14:1 con color blanco (AAA)
+   Color secundario: #FDF0F0 (rosa muy claro)
+     o Contraste de 10.02:1 con color principal (AAA)
+     o Contraste de 18.90:1 con color negro (AAA)
+   Color blanco: #FFFFFF
+     o Contraste de 11.14:1 con color principal (AAA)
+   Color negro: #000000
+     o Contraste de 18.90:1 con color secundario (AAA)
+*/
+
+/*Especificidad: 010*/
+:root {
+    --color-principal: #7A0C0C;
+    --color-secundario: #FDF0F0;
+    --color-negro: #000000;
+    --color-blanco: #FFFFFF;
+}
+
+/*Especificidad: 001*/
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: var(--color-blanco);
+    color: var(--color-negro);
+}
+
+/*Especificidad: 001, 001*/
+header,
+footer {
+    background-color: var(--color-principal);
+    color: var(--color-secundario);
+}
+
+/*Especificidad: 002, 002*/
+header a,
+footer a {
+    color: var(--color-secundario); /*ADVERTENCIA: color de fondo heredado de header y footer --color-principal */
+    text-decoration: none;
+}
+
+/*Especificidad: 001, 001, 001*/
+h2,
+h3,
+h4 {
+    color: var(--color-principal); /*ADVERTENCIA: color de fondo heredado de body --color-blanco */
+}
+
+/* Contraste color principal sobre secundario: 10.02:1 (AAA) */
+/*Especificidad: 012*/
+header a[aria-current="page"] {
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
+    font-weight: bold;
+}
+
+/*Especificidad: 003*/
+header + nav > ol {
+    font-size: 0.8em;
+    list-style: none;
+    margin: 0;
+    padding: 0.5em 1em;
+}
+
+/*Especificidad: 004*/
+header + nav > ol > li {
+    display: inline;
+}
+
+/*Especificidad: 014*/
+header + nav > ol > li:last-child {
+    font-weight: bold;
+}
+
+/*Especificidad: 014*/
+section:has(picture) > ul > li:first-child {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/*Especificidad: 014*/
+section:has(picture) > ul > li:nth-child(3) {
+    font-size: 1.5em;
+}
+
+/*Especificidad: 014*/
+section:has(picture) > ul > li:nth-child(4) {
+    font-weight: bold;
+}
+
+/* Contraste color secundario sobre principal: 10.02:1 (AAA) */
+/*Especificidad: 001*/
+table {
+    border-collapse: collapse;
+}
+
+/*Especificidad: 001*/
+caption {
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+/*Especificidad: 001, 001*/
+th,
+td {
+    border: 1px solid var(--color-principal);
+    padding: 0.5em 1em;
+    text-align: left;
+}
+
+/*Especificidad: 001*/
+th {
+    background-color: var(--color-principal);
+    color: var(--color-secundario);
+}

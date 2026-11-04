@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>LaVuelta2026:Ciclista</title>
+
+    <meta name="author" content="David Álvarez Cabezas" />
+    <meta name="description" content="Documento ciclista.html del proyecto LaVuelta2026" />
+    
+    <meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+
+    <!--Icono del documento-->
+    <link rel="icon" type="image/x-icon" href="multimedia/favicon.ico" />
+
+    <!--Enlace a las hojas de estilo-->
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+</head>
+
+<body>
+    <header>
+        <h1><a href="index.html" title="Ir a la página principal de LaVuelta2026">LaVuelta2026</a></h1>
+        <nav>
+            <a href="index.html" title="Página de inicio de LaVuelta2026">Inicio</a>
+            <a href="ciclista.html" aria-current="page" title="Información sobre el ciclista">Ciclista</a>
+            <a href="equipo.html" title="Información sobre el equipo del ciclista">Equipo</a>
+            <a href="etapa.html" title="Información sobre la etapa">Etapa</a>
+            <a href="meteorologia.html" title="Previsión meteorológica de la etapa">Meteorología</a>
+            <a href="clasificaciones.html" title="Clasificaciones de La Vuelta 2026">Clasificaciones</a>
+            <a href="juegos.html" title="Juego de preguntas sobre la etapa">Juegos</a>
+            <a href="ayuda.html" title="Ayuda sobre el uso del sitio web">Ayuda</a>
+        </nav>
+    </header>
+    <nav aria-label="migas">
+        <ol>
+            <li><a href="index.html">Inicio</a></li>
+            <li>&gt;&gt;</li>
+            <li>Ciclista</li>
+        </ol>
+    </nav>
+    <main>
+        <h2>Mikel Landa</h2>
+        <section>
+            <h3>Datos personales</h3>
+            <ul>
+                <li>Mikel Alfredo Landa Meana</li>
+                <li>13 de diciembre de 1989</li>
+                <li>España</li>
+                <li>SOUDAL QUICK-STEP</li>
+                <li>Dorsal: 121</li>
+            </ul>
+            <picture>
+                <source srcset="multimedia/mikel-landa_3.png" media="(max-width: 768px)" width="150" height="228" />
+                <source srcset="multimedia/mikel-landa_2.png" media="(max-width: 1024px)" width="225" height="341" />
+                <img src="multimedia/mikel-landa.png" alt="Fotografía de Mikel Landa con el maillot del Soudal Quick-Step" width="300" height="455" />
+            </picture>
+        </section>
+        <section>
+            <h3>Datos equipos</h3>
+            <ol>
+                <li>Soudal Quick-Step (2024-2026)</li>
+                <li>Bahrain Victorious (2020-2023)</li>
+                <li>Movistar Team (2018-2019)</li>
+                <li>Team Sky (2016-2017)</li>
+                <li>Astana (2014-2015)</li>
+                <li>Euskaltel-Euskadi (2011-2013)</li>
+            </ol>
+        </section>
+        <section>
+            <h3>Temporada 2025</h3>
+            <table>
+                <caption>Resultados de Mikel Landa en 2025</caption>
+                <thead>
+                    <tr>
+                        <th id="datos" scope="col">Datos</th>
+                        <th id="resultados" scope="col">Resultados</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th id="dias" scope="row">Días de competición</th>
+                        <td headers="resultados dias">45</td>
+                    </tr>
+                    <tr>
+                        <th id="victorias" scope="row">Victorias</th>
+                        <td headers="resultados victorias">0</td>
+                    </tr>
+                    <tr>
+                        <th id="equipos" scope="row">Equipos</th>
+                        <td headers="resultados equipos">1</td>
+                    </tr>
+                    <tr>
+                        <th id="burgos" scope="row">Puesto en la Vuelta a Burgos</th>
+                        <td headers="resultados burgos">18</td>
+                    </tr>
+                    <tr>
+                        <th id="participaciones" scope="row">Participaciones en La Vuelta</th>
+                        <td headers="resultados participaciones">9</td>
+                    </tr>
+                    <tr>
+                        <th id="mejoretapa" scope="row">Mejor puesto en etapa de La Vuelta</th>
+                        <td headers="resultados mejoretapa">2</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section>
+            <h3>Multimedia</h3>
+            <p>Equipo <a href="https://www.lavuelta.es/es/equipo/SOQ/soudal-quick-step">SOUDAL QUICK-STEP</a> en la Vuelta Ciclista a España 2026.</p>
+            <video controls="controls" poster="multimedia/poster-equipo.png">
+                <source src="multimedia/video-equipo.mp4" type="video/mp4" />
+                <source src="multimedia/video-equipo.webm" type="video/webm" />
+                <p>Tu navegador no admite el elemento video.</p>
+            </video>
+            <audio controls="controls">
+                <source src="multimedia/audio-equipo.mp3" type="audio/mpeg" />
+                <source src="multimedia/audio-equipo.wav" type="audio/wav" />
+                <p>Tu navegador no admite el elemento audio.</p>
+            </audio>
+        </section>
+    </main>
+    <footer>
+        <p>David Álvarez Cabezas</p>
+        <address><a href="mailto:UO293944@uniovi.es">UO293944@uniovi.es</a></address>
+    </footer>
+</body>
+</html>
