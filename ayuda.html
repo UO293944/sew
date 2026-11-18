@@ -17,11 +17,16 @@
     <!--Enlace a las hojas de estilo-->
     <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
     <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+
+    <!--Código ECMAScript-->
+    <script src="js/menu.js" defer></script>
+    <script src="js/buscador.js" defer></script>
 </head>
 
 <body>
     <header>
         <h1><a href="index.html" title="Ir a la página principal de LaVuelta2026">LaVuelta2026</a></h1>
+        <button type="button" aria-label="Abrir menú de navegación" aria-expanded="false">☰</button>
         <nav>
             <a href="index.html" title="Página de inicio de LaVuelta2026">Inicio</a>
             <a href="ciclista.html" title="Información sobre el ciclista">Ciclista</a>
@@ -33,6 +38,10 @@
             <a href="ayuda.html" aria-current="page" title="Ayuda sobre el uso del sitio web">Ayuda</a>
         </nav>
     </header>
+    <search aria-label="Buscador">
+        <label for="busqueda"><img src="multimedia/buscador.png" alt="icono lupa" width="24" height="24" /></label>
+        <input type="search" id="busqueda" aria-label="Buscar" placeholder="Buscar…" />
+    </search>
     <nav aria-label="migas">
         <ol>
             <li><a href="index.html">Inicio</a></li>
@@ -44,7 +53,7 @@
         <h2>Ayuda</h2>
         <section>
             <h3>Inicio</h3>
-            <p>Página de bienvenida de LaVuelta2026. Por ahora muestra el título del proyecto, el menú de navegación y el pie de página; el resto de su contenido se irá incorporando en las siguientes prácticas.</p>
+            <p>Página de bienvenida de LaVuelta2026. Por ahora muestra el título del proyecto, el menú de navegación, el buscador y el pie de página; el resto de su contenido se irá incorporando en las siguientes prácticas.</p>
         </section>
         <section>
             <h3>Ciclista</h3>
@@ -52,7 +61,7 @@
         </section>
         <section>
             <h3>Equipo</h3>
-            <p>Presenta el equipo SOUDAL QUICK-STEP y, bajo el título «Alineación de corredores», ocho tarjetas con el nombre, el icono, el dorsal y la fecha de nacimiento y nacionalidad de cada corredor. De momento contienen datos provisionales que se sustituirán por los reales.</p>
+            <p>Presenta el equipo SOUDAL QUICK-STEP y, bajo el título «Alineación de corredores», una tarjeta por corredor con el nombre, el icono, el dorsal y la fecha de nacimiento y nacionalidad. Encima de la alineación se muestra, generada con ECMAScript, una sección con el nombre, código UCI y país del equipo, su director, su categoría y un enlace a su ficha oficial en La Vuelta. La alineación se lee del fichero JSON lavuelta.json y las tarjetas aparecen ordenadas por dorsal.</p>
         </section>
         <section>
             <h3>Etapa</h3>
@@ -60,7 +69,7 @@
         </section>
         <section>
             <h3>Meteorología</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Muestra, generada con ECMAScript, la información de la ciudad de salida de la etapa, Puçol: nombre y país, gentilicio, población y las coordenadas de su punto central. La previsión meteorológica se incorporará en próximas prácticas.</p>
         </section>
         <section>
             <h3>Clasificaciones</h3>
@@ -68,11 +77,11 @@
         </section>
         <section>
             <h3>Juegos</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Cuestionario de 10 preguntas sobre la etapa. Al pulsar «Enviar respuestas» se comprueban las respuestas y aparece, debajo del formulario, tu nombre, los puntos obtenidos, la dureza que has asignado y tu descripción. Las preguntas de dureza y descripción no puntúan.</p>
         </section>
         <section>
             <h3>Ayuda</h3>
-            <p>Esta página explica qué contiene y para qué sirve cada una de las opciones del menú de navegación de LaVuelta2026. Aquí podrás consultar cómo moverte por el sitio web y qué información encontrarás en cada apartado.</p>
+            <p>Esta página explica qué contiene y para qué sirve cada una de las opciones del menú de navegación de LaVuelta2026. Aquí podrás consultar cómo moverte por el sitio web y qué información encontrarás en cada apartado. En dispositivos móviles el menú de navegación está oculto y se abre y cierra con el botón ☰ de la cabecera. En todas las páginas, el buscador situado bajo la cabecera resalta en amarillo las apariciones del texto buscado (sin distinguir mayúsculas de minúsculas), tanto al pulsar la lupa como al pulsar la tecla intro.</p>
         </section>
     </main>
     <footer>

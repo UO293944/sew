@@ -1,0 +1,1637 @@
+{
+  "equipos": [
+    {
+      "codigo_uci": "RBH",
+      "nombre": "RED BULL - BORA - HANSGROHE",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/RBH/red-bull-bora-hansgrohe",
+      "corredores": [
+        {
+          "dorsal": 1,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Primoz",
+          "apellidos": "Roglic",
+          "fecha_nacimiento": "29/10/1989"
+        },
+        {
+          "dorsal": 2,
+          "nacionalidad": "Nueva Zelanda",
+          "nacionalidad_codigo": "NZL",
+          "nombre": "Finn",
+          "apellidos": "Fisher - Black",
+          "fecha_nacimiento": "21/12/2001"
+        },
+        {
+          "dorsal": 3,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Jordi",
+          "apellidos": "Meeus",
+          "fecha_nacimiento": "01/07/1998"
+        },
+        {
+          "dorsal": 4,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Gianni",
+          "apellidos": "Moscon",
+          "fecha_nacimiento": "20/04/1994"
+        },
+        {
+          "dorsal": 5,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Callum",
+          "apellidos": "Thornley",
+          "fecha_nacimiento": "05/08/2003"
+        },
+        {
+          "dorsal": 6,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Luke",
+          "apellidos": "Tuckwell",
+          "fecha_nacimiento": "21/06/2004"
+        },
+        {
+          "dorsal": 7,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Gianni",
+          "apellidos": "Vermeersch",
+          "fecha_nacimiento": "19/11/1992"
+        },
+        {
+          "dorsal": 8,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Frederik",
+          "apellidos": "Wandahl",
+          "fecha_nacimiento": "09/05/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "UAD",
+      "nombre": "UAE TEAM EMIRATES XRG",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/UEX/uae-team-emirates-xrg",
+      "corredores": [
+        {
+          "dorsal": 11,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Tadej",
+          "apellidos": "Pogacar",
+          "fecha_nacimiento": "21/09/1998"
+        },
+        {
+          "dorsal": 12,
+          "nacionalidad": "Portugal",
+          "nacionalidad_codigo": "POR",
+          "nombre": "Joao",
+          "apellidos": "Almeida",
+          "fecha_nacimiento": "05/08/1998"
+        },
+        {
+          "dorsal": 13,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Domen",
+          "apellidos": "Novak",
+          "fecha_nacimiento": "12/07/1995"
+        },
+        {
+          "dorsal": 14,
+          "nacionalidad": "Portugal",
+          "nacionalidad_codigo": "POR",
+          "nombre": "Ivo",
+          "apellidos": "Oliveira",
+          "fecha_nacimiento": "05/09/1996"
+        },
+        {
+          "dorsal": 15,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Pavel",
+          "apellidos": "Sivakov",
+          "fecha_nacimiento": "11/07/1997"
+        },
+        {
+          "dorsal": 16,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Pablo",
+          "apellidos": "Torres Arias",
+          "fecha_nacimiento": "10/11/2005"
+        },
+        {
+          "dorsal": 17,
+          "nacionalidad": "Estados Unidos",
+          "nacionalidad_codigo": "USA",
+          "nombre": "Kevin",
+          "apellidos": "Vermaerke",
+          "fecha_nacimiento": "16/10/2000"
+        },
+        {
+          "dorsal": 18,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Jay",
+          "apellidos": "Vine",
+          "fecha_nacimiento": "16/11/1995"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "MOV",
+      "nombre": "MOVISTAR TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/MOV/movistar-team",
+      "corredores": [
+        {
+          "dorsal": 21,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Enric",
+          "apellidos": "Mas",
+          "fecha_nacimiento": "07/01/1995"
+        },
+        {
+          "dorsal": 22,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Jorge",
+          "apellidos": "Arcas",
+          "fecha_nacimiento": "08/07/1992"
+        },
+        {
+          "dorsal": 23,
+          "nacionalidad": "Venezuela",
+          "nacionalidad_codigo": "VEN",
+          "nombre": "Orluis",
+          "apellidos": "Alberto Aular Sanabria",
+          "fecha_nacimiento": "05/11/1996"
+        },
+        {
+          "dorsal": 24,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Carlos",
+          "apellidos": "Canal Blanco",
+          "fecha_nacimiento": "28/06/2001"
+        },
+        {
+          "dorsal": 25,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Pablo",
+          "apellidos": "Castrillo",
+          "fecha_nacimiento": "02/01/2001"
+        },
+        {
+          "dorsal": 26,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Raul",
+          "apellidos": "Garcia",
+          "fecha_nacimiento": "23/02/2001"
+        },
+        {
+          "dorsal": 27,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Ivan",
+          "apellidos": "Romeo Abad",
+          "fecha_nacimiento": "16/08/2003"
+        },
+        {
+          "dorsal": 28,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Cian",
+          "apellidos": "Uijtdebroeks",
+          "fecha_nacimiento": "28/02/2003"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "TVL",
+      "nombre": "TEAM VISMA | LEASE A BIKE",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/TVL/team-visma-lease-a-bike",
+      "corredores": [
+        {
+          "dorsal": 31,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Wout",
+          "apellidos": "Van Aert",
+          "fecha_nacimiento": "15/09/1994"
+        },
+        {
+          "dorsal": 32,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Bruno",
+          "apellidos": "Armirail",
+          "fecha_nacimiento": "11/04/1994"
+        },
+        {
+          "dorsal": 33,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "James",
+          "apellidos": "Matthew Brennan",
+          "fecha_nacimiento": "06/08/2005"
+        },
+        {
+          "dorsal": 34,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Steven",
+          "apellidos": "Kruijswijk",
+          "fecha_nacimiento": "07/06/1987"
+        },
+        {
+          "dorsal": 35,
+          "nacionalidad": "Estados Unidos",
+          "nacionalidad_codigo": "USA",
+          "nombre": "Sepp",
+          "apellidos": "Kuss",
+          "fecha_nacimiento": "13/09/1994"
+        },
+        {
+          "dorsal": 36,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Christophe",
+          "apellidos": "Laporte",
+          "fecha_nacimiento": "11/12/1992"
+        },
+        {
+          "dorsal": 37,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Jørgen",
+          "apellidos": "Nordhagen",
+          "fecha_nacimiento": "10/01/2005"
+        },
+        {
+          "dorsal": 38,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Ben",
+          "apellidos": "Tulett",
+          "fecha_nacimiento": "26/08/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "DCT",
+      "nombre": "DECATHLON CMA CGM TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/DCT/decathlon-cma-cgm-team",
+      "corredores": [
+        {
+          "dorsal": 41,
+          "nacionalidad": "Austria",
+          "nacionalidad_codigo": "AUT",
+          "nombre": "Félix",
+          "apellidos": "Gall",
+          "fecha_nacimiento": "27/02/1998"
+        },
+        {
+          "dorsal": 42,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Léo",
+          "apellidos": "Bisiaux",
+          "fecha_nacimiento": "14/02/2005"
+        },
+        {
+          "dorsal": 43,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Andrew",
+          "apellidos": "Oscar Chamberlain",
+          "fecha_nacimiento": "15/01/2005"
+        },
+        {
+          "dorsal": 44,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Sander",
+          "apellidos": "De Pestel",
+          "fecha_nacimiento": "11/10/1998"
+        },
+        {
+          "dorsal": 45,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Jordan",
+          "apellidos": "Labrosse",
+          "fecha_nacimiento": "15/09/2002"
+        },
+        {
+          "dorsal": 46,
+          "nacionalidad": "Austria",
+          "nacionalidad_codigo": "AUT",
+          "nombre": "Gregor",
+          "apellidos": "Mühlberger",
+          "fecha_nacimiento": "04/04/1994"
+        },
+        {
+          "dorsal": 47,
+          "nacionalidad": "Estados Unidos",
+          "nacionalidad_codigo": "USA",
+          "nombre": "Matthew",
+          "apellidos": "Riccitello",
+          "fecha_nacimiento": "05/03/2002"
+        },
+        {
+          "dorsal": 48,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Callum",
+          "apellidos": "Scotson",
+          "fecha_nacimiento": "10/08/1996"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "Q36",
+      "nombre": "PINARELLO-Q36.5 PRO CYCLING TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/PQT/pinarello-q36-5-pro-cycling-team",
+      "corredores": [
+        {
+          "dorsal": 51,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "David",
+          "apellidos": "De La Cruz",
+          "fecha_nacimiento": "06/05/1989"
+        },
+        {
+          "dorsal": 52,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Xabier",
+          "apellidos": "Azparren Irurzun",
+          "fecha_nacimiento": "25/02/1999"
+        },
+        {
+          "dorsal": 53,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Walter",
+          "apellidos": "Calzoni",
+          "fecha_nacimiento": "08/08/2001"
+        },
+        {
+          "dorsal": 54,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Marcel",
+          "apellidos": "Camprubi Pijuan",
+          "fecha_nacimiento": "15/09/2001"
+        },
+        {
+          "dorsal": 55,
+          "nacionalidad": "Irlanda",
+          "nacionalidad_codigo": "IRL",
+          "nombre": "Edward",
+          "apellidos": "Dunbar",
+          "fecha_nacimiento": "01/09/1996"
+        },
+        {
+          "dorsal": 56,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Thomas",
+          "apellidos": "Gloag",
+          "fecha_nacimiento": "13/09/2001"
+        },
+        {
+          "dorsal": 57,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "David",
+          "apellidos": "Gonzalez Lopez",
+          "fecha_nacimiento": "21/02/1996"
+        },
+        {
+          "dorsal": 58,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Milan",
+          "apellidos": "Vader",
+          "fecha_nacimiento": "18/02/1996"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "IGD",
+      "nombre": "NETCOMPANY INEOS CYCLING TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/NCI/netcompany-ineos-cycling-team",
+      "corredores": [
+        {
+          "dorsal": 61,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Oscar",
+          "apellidos": "Onley",
+          "fecha_nacimiento": "13/10/2002"
+        },
+        {
+          "dorsal": 62,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Jack",
+          "apellidos": "Haig",
+          "fecha_nacimiento": "06/09/1993"
+        },
+        {
+          "dorsal": 63,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Lucas",
+          "apellidos": "Hamilton",
+          "fecha_nacimiento": "12/02/1996"
+        },
+        {
+          "dorsal": 64,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Axel",
+          "apellidos": "Laurance",
+          "fecha_nacimiento": "13/04/2001"
+        },
+        {
+          "dorsal": 65,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Carlos",
+          "apellidos": "Rodriguez",
+          "fecha_nacimiento": "02/02/2001"
+        },
+        {
+          "dorsal": 66,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Embret",
+          "apellidos": "Svestad-Bårdseng",
+          "fecha_nacimiento": "01/09/2002"
+        },
+        {
+          "dorsal": 67,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Joshua",
+          "apellidos": "Tarling",
+          "fecha_nacimiento": "15/02/2004"
+        },
+        {
+          "dorsal": 68,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Ben",
+          "apellidos": "Turner",
+          "fecha_nacimiento": "28/05/1999"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "TBV",
+      "nombre": "BAHRAIN VICTORIOUS",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/TBV/bahrain-victorious",
+      "corredores": [
+        {
+          "dorsal": 71,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Pello",
+          "apellidos": "Bilbao",
+          "fecha_nacimiento": "25/02/1990"
+        },
+        {
+          "dorsal": 72,
+          "nacionalidad": "Colombia",
+          "nacionalidad_codigo": "COL",
+          "nombre": "Santiago",
+          "apellidos": "Buitrago",
+          "fecha_nacimiento": "26/09/1999"
+        },
+        {
+          "dorsal": 73,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Roman",
+          "apellidos": "Ermakov",
+          "fecha_nacimiento": "06/10/2004"
+        },
+        {
+          "dorsal": 74,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Matevž",
+          "apellidos": "Govekar",
+          "fecha_nacimiento": "17/04/2000"
+        },
+        {
+          "dorsal": 75,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Pau",
+          "apellidos": "Miquel Delgado",
+          "fecha_nacimiento": "20/08/2000"
+        },
+        {
+          "dorsal": 76,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Jakob",
+          "apellidos": "Omrzel",
+          "fecha_nacimiento": "21/03/2006"
+        },
+        {
+          "dorsal": 77,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Mathijs",
+          "apellidos": "Paasschens",
+          "fecha_nacimiento": "18/03/1996"
+        },
+        {
+          "dorsal": 78,
+          "nacionalidad": "Hungría",
+          "nacionalidad_codigo": "HUN",
+          "nombre": "Attila",
+          "apellidos": "Valter",
+          "fecha_nacimiento": "12/06/1998"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "LTK",
+      "nombre": "LIDL-TREK",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/LTK/lidl-trek",
+      "corredores": [
+        {
+          "dorsal": 81,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Mattias",
+          "apellidos": "Skjelmose",
+          "fecha_nacimiento": "26/09/2000"
+        },
+        {
+          "dorsal": 82,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Julien",
+          "apellidos": "Bernard",
+          "fecha_nacimiento": "17/03/1992"
+        },
+        {
+          "dorsal": 83,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Lennard",
+          "apellidos": "Kämna",
+          "fecha_nacimiento": "09/09/1996"
+        },
+        {
+          "dorsal": 84,
+          "nacionalidad": "Austria",
+          "nacionalidad_codigo": "AUT",
+          "nombre": "Patrick",
+          "apellidos": "Konrad",
+          "fecha_nacimiento": "13/10/1991"
+        },
+        {
+          "dorsal": 85,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Jacopo",
+          "apellidos": "Mosca",
+          "fecha_nacimiento": "29/08/1993"
+        },
+        {
+          "dorsal": 86,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Sunekær",
+          "apellidos": "Mathias Norsgaard",
+          "fecha_nacimiento": "05/05/1997"
+        },
+        {
+          "dorsal": 87,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Thibau",
+          "apellidos": "Nys",
+          "fecha_nacimiento": "12/11/2002"
+        },
+        {
+          "dorsal": 88,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Mads",
+          "apellidos": "Pedersen",
+          "fecha_nacimiento": "18/12/1995"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "GFC",
+      "nombre": "GROUPAMA-FDJ UNITED",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/GFC/groupama-fdj-united",
+      "corredores": [
+        {
+          "dorsal": 91,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Clément",
+          "apellidos": "Berthet",
+          "fecha_nacimiento": "02/08/1997"
+        },
+        {
+          "dorsal": 92,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Olivier",
+          "apellidos": "Le Gac",
+          "fecha_nacimiento": "27/08/1993"
+        },
+        {
+          "dorsal": 93,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Valentin",
+          "apellidos": "Madouas",
+          "fecha_nacimiento": "12/07/1996"
+        },
+        {
+          "dorsal": 94,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Guillaume",
+          "apellidos": "Martin Guyonnet",
+          "fecha_nacimiento": "09/06/1993"
+        },
+        {
+          "dorsal": 95,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Rudy",
+          "apellidos": "Molard",
+          "fecha_nacimiento": "17/09/1989"
+        },
+        {
+          "dorsal": 96,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Enzo",
+          "apellidos": "Paleni",
+          "fecha_nacimiento": "30/05/2002"
+        },
+        {
+          "dorsal": 97,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Rémy",
+          "apellidos": "Rochas",
+          "fecha_nacimiento": "18/05/1996"
+        },
+        {
+          "dorsal": 98,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Bastien",
+          "apellidos": "Tronchon",
+          "fecha_nacimiento": "29/03/2002"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "APC",
+      "nombre": "ALPECIN-PREMIER TECH",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/APT/alpecin-premier-tech",
+      "corredores": [
+        {
+          "dorsal": 101,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Kaden",
+          "apellidos": "Groves",
+          "fecha_nacimiento": "23/12/1998"
+        },
+        {
+          "dorsal": 102,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Francesco",
+          "apellidos": "Busatto",
+          "fecha_nacimiento": "01/11/2002"
+        },
+        {
+          "dorsal": 103,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Lindsay",
+          "apellidos": "De Vylder",
+          "fecha_nacimiento": "30/05/1995"
+        },
+        {
+          "dorsal": 104,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Ramses",
+          "apellidos": "Debruyne",
+          "fecha_nacimiento": "31/08/2002"
+        },
+        {
+          "dorsal": 105,
+          "nacionalidad": "Eslovenia",
+          "nacionalidad_codigo": "SLO",
+          "nombre": "Gal",
+          "apellidos": "Glivar",
+          "fecha_nacimiento": "01/05/2002"
+        },
+        {
+          "dorsal": 106,
+          "nacionalidad": "Austria",
+          "nacionalidad_codigo": "AUT",
+          "nombre": "Michael",
+          "apellidos": "Gogl",
+          "fecha_nacimiento": "04/11/1993"
+        },
+        {
+          "dorsal": 107,
+          "nacionalidad": "Canadá",
+          "nacionalidad_codigo": "CAN",
+          "nombre": "Hugo",
+          "apellidos": "Houle",
+          "fecha_nacimiento": "27/09/1990"
+        },
+        {
+          "dorsal": 108,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Sente",
+          "apellidos": "Sentjens",
+          "fecha_nacimiento": "02/09/2005"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "NSN",
+      "nombre": "NSN CYCLING TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/NSN/nsn-cycling-team",
+      "corredores": [
+        {
+          "dorsal": 111,
+          "nacionalidad": "Kazajistán",
+          "nacionalidad_codigo": "KAZ",
+          "nombre": "Alexey",
+          "apellidos": "Lutsenko",
+          "fecha_nacimiento": "07/09/1992"
+        },
+        {
+          "dorsal": 112,
+          "nacionalidad": "Nueva Zelanda",
+          "nacionalidad_codigo": "NZL",
+          "nombre": "George",
+          "apellidos": "Bennett",
+          "fecha_nacimiento": "07/04/1990"
+        },
+        {
+          "dorsal": 113,
+          "nacionalidad": "Chequia",
+          "nacionalidad_codigo": "CZE",
+          "nombre": "Jan",
+          "apellidos": "Hirt",
+          "fecha_nacimiento": "21/01/1991"
+        },
+        {
+          "dorsal": 114,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Hugo",
+          "apellidos": "Hofstetter",
+          "fecha_nacimiento": "13/02/1994"
+        },
+        {
+          "dorsal": 115,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Moritz",
+          "apellidos": "Kretschy",
+          "fecha_nacimiento": "12/05/2002"
+        },
+        {
+          "dorsal": 116,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Pau",
+          "apellidos": "Marti Soriano",
+          "fecha_nacimiento": "24/11/2004"
+        },
+        {
+          "dorsal": 117,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Nicholas",
+          "apellidos": "Schultz",
+          "fecha_nacimiento": "13/09/1994"
+        },
+        {
+          "dorsal": 118,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Floris",
+          "apellidos": "Van Tricht",
+          "fecha_nacimiento": "23/06/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "SOQ",
+      "nombre": "SOUDAL QUICK-STEP",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/SOQ/soudal-quick-step",
+      "corredores": [
+        {
+          "dorsal": 121,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Mikel",
+          "apellidos": "Landa",
+          "fecha_nacimiento": "13/12/1989"
+        },
+        {
+          "dorsal": 122,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Alberto",
+          "apellidos": "Dainese",
+          "fecha_nacimiento": "25/03/1998"
+        },
+        {
+          "dorsal": 123,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Gianmarco",
+          "apellidos": "Garofoli",
+          "fecha_nacimiento": "06/10/2002"
+        },
+        {
+          "dorsal": 124,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Ethan",
+          "apellidos": "Edward Hayter",
+          "fecha_nacimiento": "18/09/1998"
+        },
+        {
+          "dorsal": 125,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Valentin",
+          "apellidos": "Paret Peintre",
+          "fecha_nacimiento": "14/01/2001"
+        },
+        {
+          "dorsal": 126,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Fabio",
+          "apellidos": "Van Den Bossche",
+          "fecha_nacimiento": "21/09/2000"
+        },
+        {
+          "dorsal": 127,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Mauri",
+          "apellidos": "Vansevenant",
+          "fecha_nacimiento": "01/06/1999"
+        },
+        {
+          "dorsal": 128,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Filippo",
+          "apellidos": "Zana",
+          "fecha_nacimiento": "18/03/1999"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "UXM",
+      "nombre": "UNO-X MOBILITY",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/UXM/uno-x-mobility",
+      "corredores": [
+        {
+          "dorsal": 131,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Magnus",
+          "apellidos": "Cort Nielsen",
+          "fecha_nacimiento": "16/01/1993"
+        },
+        {
+          "dorsal": 132,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Simon",
+          "apellidos": "Dalby",
+          "fecha_nacimiento": "29/01/2003"
+        },
+        {
+          "dorsal": 133,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Fredrik",
+          "apellidos": "Dversnes",
+          "fecha_nacimiento": "20/03/1997"
+        },
+        {
+          "dorsal": 134,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Tobias",
+          "apellidos": "Johannessen",
+          "fecha_nacimiento": "23/08/1999"
+        },
+        {
+          "dorsal": 135,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Andreas",
+          "apellidos": "Kron",
+          "fecha_nacimiento": "01/06/1998"
+        },
+        {
+          "dorsal": 136,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Andreas",
+          "apellidos": "Leknessund",
+          "fecha_nacimiento": "21/05/1999"
+        },
+        {
+          "dorsal": 137,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Rasmus",
+          "apellidos": "Tiller",
+          "fecha_nacimiento": "28/07/1996"
+        },
+        {
+          "dorsal": 138,
+          "nacionalidad": "Noruega",
+          "nacionalidad_codigo": "NOR",
+          "nombre": "Martin",
+          "apellidos": "Tjøtta",
+          "fecha_nacimiento": "27/03/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "COF",
+      "nombre": "COFIDIS",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/COF/cofidis",
+      "corredores": [
+        {
+          "dorsal": 141,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Emanuel",
+          "apellidos": "Buchmann",
+          "fecha_nacimiento": "18/11/1992"
+        },
+        {
+          "dorsal": 142,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Bryan",
+          "apellidos": "Coquard",
+          "fecha_nacimiento": "25/04/1992"
+        },
+        {
+          "dorsal": 143,
+          "nacionalidad": "Luxemburgo",
+          "nacionalidad_codigo": "LUX",
+          "nombre": "Alex",
+          "apellidos": "Kirsch",
+          "fecha_nacimiento": "12/06/1992"
+        },
+        {
+          "dorsal": 144,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Sylvain",
+          "apellidos": "Moniquet",
+          "fecha_nacimiento": "14/01/1998"
+        },
+        {
+          "dorsal": 145,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Paul",
+          "apellidos": "Ourselin",
+          "fecha_nacimiento": "13/04/1994"
+        },
+        {
+          "dorsal": 146,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Alexis",
+          "apellidos": "Renard",
+          "fecha_nacimiento": "01/06/1999"
+        },
+        {
+          "dorsal": 147,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Louis",
+          "apellidos": "Rouland",
+          "fecha_nacimiento": "21/10/2002"
+        },
+        {
+          "dorsal": 148,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Sergio",
+          "apellidos": "Samitier Samitier",
+          "fecha_nacimiento": "31/08/1995"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "JAY",
+      "nombre": "TEAM JAYCO ALULA",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/JAY/team-jayco-alula",
+      "corredores": [
+        {
+          "dorsal": 151,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Alessandro",
+          "apellidos": "Covi",
+          "fecha_nacimiento": "28/09/1998"
+        },
+        {
+          "dorsal": 152,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Koen",
+          "apellidos": "Bouwman",
+          "fecha_nacimiento": "02/12/1993"
+        },
+        {
+          "dorsal": 153,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Paul",
+          "apellidos": "Double",
+          "fecha_nacimiento": "25/06/1996"
+        },
+        {
+          "dorsal": 154,
+          "nacionalidad": "Dinamarca",
+          "nacionalidad_codigo": "DEN",
+          "nombre": "Asbjørn",
+          "apellidos": "Hellemose",
+          "fecha_nacimiento": "15/01/1999"
+        },
+        {
+          "dorsal": 155,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Hamish",
+          "apellidos": "Mckenzie",
+          "fecha_nacimiento": "13/09/2004"
+        },
+        {
+          "dorsal": 156,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Xavier",
+          "apellidos": "Finlay Xavier Pickering",
+          "fecha_nacimiento": "27/01/2003"
+        },
+        {
+          "dorsal": 157,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Rudy",
+          "apellidos": "Porter",
+          "fecha_nacimiento": "15/12/2000"
+        },
+        {
+          "dorsal": 158,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Jasha",
+          "apellidos": "Sütterlin",
+          "fecha_nacimiento": "04/11/1992"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "EFE",
+      "nombre": "EF EDUCATION - EASYPOST",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/EFE/ef-education-easypost",
+      "corredores": [
+        {
+          "dorsal": 161,
+          "nacionalidad": "Ecuador",
+          "nacionalidad_codigo": "ECU",
+          "nombre": "Richard",
+          "apellidos": "Carapaz",
+          "fecha_nacimiento": "29/05/1993"
+        },
+        {
+          "dorsal": 162,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Vincenzo",
+          "apellidos": "Albanese",
+          "fecha_nacimiento": "12/11/1996"
+        },
+        {
+          "dorsal": 163,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Markel",
+          "apellidos": "Beloki",
+          "fecha_nacimiento": "27/07/2005"
+        },
+        {
+          "dorsal": 164,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Alastair",
+          "apellidos": "Mackellar",
+          "fecha_nacimiento": "20/01/2002"
+        },
+        {
+          "dorsal": 165,
+          "nacionalidad": "Irlanda",
+          "nacionalidad_codigo": "IRL",
+          "nombre": "Darren",
+          "apellidos": "Rafferty",
+          "fecha_nacimiento": "01/07/2003"
+        },
+        {
+          "dorsal": 166,
+          "nacionalidad": "Colombia",
+          "nacionalidad_codigo": "COL",
+          "nombre": "Juan",
+          "apellidos": "Felipe Rodriguez Contreras",
+          "fecha_nacimiento": "05/11/2003"
+        },
+        {
+          "dorsal": 167,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "James",
+          "apellidos": "Shaw",
+          "fecha_nacimiento": "13/06/1996"
+        },
+        {
+          "dorsal": 168,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Georg",
+          "apellidos": "Steinhauser",
+          "fecha_nacimiento": "21/10/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "TUD",
+      "nombre": "TUDOR PRO CYCLING TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/TUD/tudor-pro-cycling-team",
+      "corredores": [
+        {
+          "dorsal": 171,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Marco",
+          "apellidos": "Brenner",
+          "fecha_nacimiento": "27/08/2002"
+        },
+        {
+          "dorsal": 172,
+          "nacionalidad": "Estados Unidos",
+          "nacionalidad_codigo": "USA",
+          "nombre": "William",
+          "apellidos": "Barta",
+          "fecha_nacimiento": "04/01/1996"
+        },
+        {
+          "dorsal": 173,
+          "nacionalidad": "Luxemburgo",
+          "nacionalidad_codigo": "LUX",
+          "nombre": "Arthur",
+          "apellidos": "Kluckers",
+          "fecha_nacimiento": "15/03/2000"
+        },
+        {
+          "dorsal": 174,
+          "nacionalidad": "Suiza",
+          "nacionalidad_codigo": "SUI",
+          "nombre": "Stefan",
+          "apellidos": "Küng",
+          "fecha_nacimiento": "16/11/1993"
+        },
+        {
+          "dorsal": 175,
+          "nacionalidad": "Suiza",
+          "nacionalidad_codigo": "SUI",
+          "nombre": "Roland",
+          "apellidos": "Thalmann",
+          "fecha_nacimiento": "05/08/1993"
+        },
+        {
+          "dorsal": 176,
+          "nacionalidad": "Estados Unidos",
+          "nacionalidad_codigo": "USA",
+          "nombre": "Lawrence",
+          "apellidos": "Warbasse",
+          "fecha_nacimiento": "28/06/1990"
+        },
+        {
+          "dorsal": 177,
+          "nacionalidad": "Suiza",
+          "nacionalidad_codigo": "SUI",
+          "nombre": "Fabian",
+          "apellidos": "Weiss",
+          "fecha_nacimiento": "11/04/2002"
+        },
+        {
+          "dorsal": 178,
+          "nacionalidad": "Alemania",
+          "nacionalidad_codigo": "GER",
+          "nombre": "Hannes",
+          "apellidos": "Wilksch",
+          "fecha_nacimiento": "30/10/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "XAT",
+      "nombre": "XDS ASTANA TEAM",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/XAT/xds-astana-team",
+      "corredores": [
+        {
+          "dorsal": 181,
+          "nacionalidad": "Colombia",
+          "nacionalidad_codigo": "COL",
+          "nombre": "Harold",
+          "apellidos": "Tejada",
+          "fecha_nacimiento": "27/04/1997"
+        },
+        {
+          "dorsal": 182,
+          "nacionalidad": "Kazajistán",
+          "nacionalidad_codigo": "KAZ",
+          "nombre": "Yevgeniy",
+          "apellidos": "Fedorov",
+          "fecha_nacimiento": "16/02/2000"
+        },
+        {
+          "dorsal": 183,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Lorenzo",
+          "apellidos": "Fortunato",
+          "fecha_nacimiento": "09/05/1996"
+        },
+        {
+          "dorsal": 184,
+          "nacionalidad": "Mónaco",
+          "nacionalidad_codigo": "MON",
+          "nombre": "Victor",
+          "apellidos": "Langellotti",
+          "fecha_nacimiento": "07/06/1995"
+        },
+        {
+          "dorsal": 185,
+          "nacionalidad": "Eritrea",
+          "nacionalidad_codigo": "ERI",
+          "nombre": "Henok",
+          "apellidos": "Mulueberhan",
+          "fecha_nacimiento": "11/11/1999"
+        },
+        {
+          "dorsal": 186,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Cristian",
+          "apellidos": "Rodriguez",
+          "fecha_nacimiento": "03/03/1995"
+        },
+        {
+          "dorsal": 187,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Alessandro",
+          "apellidos": "Romele",
+          "fecha_nacimiento": "30/08/2003"
+        },
+        {
+          "dorsal": 188,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Darren",
+          "apellidos": "Van Bekkum",
+          "fecha_nacimiento": "20/03/2002"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "BBH",
+      "nombre": "BURGOS-BURPELLET-BH",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/BBH/burgos-burpellet-bh",
+      "corredores": [
+        {
+          "dorsal": 191,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Jesus",
+          "apellidos": "Herrada",
+          "fecha_nacimiento": "26/07/1990"
+        },
+        {
+          "dorsal": 192,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Clement",
+          "apellidos": "Alleno",
+          "fecha_nacimiento": "08/10/2000"
+        },
+        {
+          "dorsal": 193,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Mario",
+          "apellidos": "Aparicio Muñoz",
+          "fecha_nacimiento": "23/04/2000"
+        },
+        {
+          "dorsal": 194,
+          "nacionalidad": "Guatemala",
+          "nacionalidad_codigo": "GUA",
+          "nombre": "Sergio",
+          "apellidos": "Geovani Chumil Gonzalez",
+          "fecha_nacimiento": "08/10/2000"
+        },
+        {
+          "dorsal": 195,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Jose",
+          "apellidos": "Manuel Diaz Gallego",
+          "fecha_nacimiento": "18/01/1995"
+        },
+        {
+          "dorsal": 196,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Jose",
+          "apellidos": "Luis Faura Asensio",
+          "fecha_nacimiento": "15/09/2000"
+        },
+        {
+          "dorsal": 197,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Sinuhe",
+          "apellidos": "Fernandez Rodriguez",
+          "fecha_nacimiento": "15/06/2000"
+        },
+        {
+          "dorsal": 198,
+          "nacionalidad": "México",
+          "nacionalidad_codigo": "MEX",
+          "nombre": "Cesar",
+          "apellidos": "Macias Estrada",
+          "fecha_nacimiento": "17/09/2003"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "LOI",
+      "nombre": "LOTTO INTERMARCHE",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/LOI/lotto-intermarche",
+      "corredores": [
+        {
+          "dorsal": 201,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Jarno",
+          "apellidos": "Widar",
+          "fecha_nacimiento": "13/11/2005"
+        },
+        {
+          "dorsal": 202,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Vito",
+          "apellidos": "Braet",
+          "fecha_nacimiento": "02/11/2000"
+        },
+        {
+          "dorsal": 203,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Lars",
+          "apellidos": "Craps",
+          "fecha_nacimiento": "17/10/2001"
+        },
+        {
+          "dorsal": 204,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Steffen",
+          "apellidos": "De Schuyteneer",
+          "fecha_nacimiento": "24/02/2005"
+        },
+        {
+          "dorsal": 205,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Lorenzo",
+          "apellidos": "Rota",
+          "fecha_nacimiento": "23/05/1995"
+        },
+        {
+          "dorsal": 206,
+          "nacionalidad": "Nueva Zelanda",
+          "nacionalidad_codigo": "NZL",
+          "nombre": "Reuben",
+          "apellidos": "Thompson",
+          "fecha_nacimiento": "15/02/2001"
+        },
+        {
+          "dorsal": 207,
+          "nacionalidad": "Bélgica",
+          "nacionalidad_codigo": "BEL",
+          "nombre": "Luca",
+          "apellidos": "Van Boven",
+          "fecha_nacimiento": "06/01/2000"
+        },
+        {
+          "dorsal": 208,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Roel",
+          "apellidos": "Van Sintmaartensdijk",
+          "fecha_nacimiento": "08/05/2001"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "TPP",
+      "nombre": "TEAM PICNIC POSTNL",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/TPP/team-picnic-postnl",
+      "corredores": [
+        {
+          "dorsal": 211,
+          "nacionalidad": "Australia",
+          "nacionalidad_codigo": "AUS",
+          "nombre": "Christopher",
+          "apellidos": "Hamilton",
+          "fecha_nacimiento": "18/05/1995"
+        },
+        {
+          "dorsal": 212,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Timo",
+          "apellidos": "De Jong",
+          "fecha_nacimiento": "28/03/1999"
+        },
+        {
+          "dorsal": 213,
+          "nacionalidad": "Italia",
+          "nacionalidad_codigo": "ITA",
+          "nombre": "Mattia",
+          "apellidos": "Gaffuri",
+          "fecha_nacimiento": "04/07/1999"
+        },
+        {
+          "dorsal": 214,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Gijs",
+          "apellidos": "Leemreize",
+          "fecha_nacimiento": "23/10/1999"
+        },
+        {
+          "dorsal": 215,
+          "nacionalidad": "Colombia",
+          "nacionalidad_codigo": "COL",
+          "nombre": "Guillermo",
+          "apellidos": "Juan Martinez Huertas",
+          "fecha_nacimiento": "21/11/2004"
+        },
+        {
+          "dorsal": 216,
+          "nacionalidad": "Reino Unido",
+          "nacionalidad_codigo": "GBR",
+          "nombre": "Oliver",
+          "apellidos": "Peace",
+          "fecha_nacimiento": "02/04/2005"
+        },
+        {
+          "dorsal": 217,
+          "nacionalidad": "Francia",
+          "nacionalidad_codigo": "FRA",
+          "nombre": "Henri",
+          "apellidos": "François Renard Haquin",
+          "fecha_nacimiento": "12/12/2002"
+        },
+        {
+          "dorsal": 218,
+          "nacionalidad": "Países Bajos",
+          "nacionalidad_codigo": "NED",
+          "nombre": "Timo",
+          "apellidos": "Roosen",
+          "fecha_nacimiento": "11/01/1993"
+        }
+      ]
+    },
+    {
+      "codigo_uci": "EKP",
+      "nombre": "EQUIPO KERN PHARMA",
+      "ficha_url": "https://www.lavuelta.es/es/equipo/EKP/equipo-kern-pharma",
+      "corredores": [
+        {
+          "dorsal": 221,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Urko",
+          "apellidos": "Berrade Fernandez",
+          "fecha_nacimiento": "28/11/1997"
+        },
+        {
+          "dorsal": 222,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Marc",
+          "apellidos": "Brustenga Masague",
+          "fecha_nacimiento": "04/09/1999"
+        },
+        {
+          "dorsal": 223,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Ivan",
+          "apellidos": "Cobo Cayon",
+          "fecha_nacimiento": "02/01/2000"
+        },
+        {
+          "dorsal": 224,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Iñigo",
+          "apellidos": "Elosegui Momeñe",
+          "fecha_nacimiento": "06/03/1998"
+        },
+        {
+          "dorsal": 225,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Ibon",
+          "apellidos": "Ruiz Sedano",
+          "fecha_nacimiento": "30/01/1999"
+        },
+        {
+          "dorsal": 226,
+          "nacionalidad": "Colombia",
+          "nacionalidad_codigo": "COL",
+          "nombre": "Ivan",
+          "apellidos": "Sosa",
+          "fecha_nacimiento": "31/10/1997"
+        },
+        {
+          "dorsal": 227,
+          "nacionalidad": "España",
+          "nacionalidad_codigo": "ESP",
+          "nombre": "Diego",
+          "apellidos": "Uriarte Belzunegi",
+          "fecha_nacimiento": "26/10/2001"
+        },
+        {
+          "dorsal": 228,
+          "nacionalidad": "Luxemburgo",
+          "nacionalidad_codigo": "LUX",
+          "nombre": "Mats",
+          "apellidos": "Wenzel",
+          "fecha_nacimiento": "19/12/2002"
+        }
+      ]
+    }
+  ]
+}

@@ -17,11 +17,17 @@
     <!--Enlace a las hojas de estilo-->
     <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
     <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+
+    <!--Código ECMAScript-->
+    <script src="js/menu.js" defer></script>
+    <script src="js/buscador.js" defer></script>
+    <script src="js/equipo.js" defer></script>
 </head>
 
 <body>
     <header>
         <h1><a href="index.html" title="Ir a la página principal de LaVuelta2026">LaVuelta2026</a></h1>
+        <button type="button" aria-label="Abrir menú de navegación" aria-expanded="false">☰</button>
         <nav>
             <a href="index.html" title="Página de inicio de LaVuelta2026">Inicio</a>
             <a href="ciclista.html" title="Información sobre el ciclista">Ciclista</a>
@@ -33,6 +39,10 @@
             <a href="ayuda.html" title="Ayuda sobre el uso del sitio web">Ayuda</a>
         </nav>
     </header>
+    <search aria-label="Buscador">
+        <label for="busqueda"><img src="multimedia/buscador.png" alt="icono lupa" width="24" height="24" /></label>
+        <input type="search" id="busqueda" aria-label="Buscar" placeholder="Buscar…" />
+    </search>
     <nav aria-label="migas">
         <ol>
             <li><a href="index.html">Inicio</a></li>
@@ -44,54 +54,6 @@
         <h2>SOUDAL QUICK-STEP</h2>
         <section>
             <h3>Alineación de corredores</h3>
-            <article>
-                <h4>Mikel Landa</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 121</p>
-                <p>13/12/1989 – España</p>
-            </article>
-            <article>
-                <h4>Alberto Dainese</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 122</p>
-                <p>25/03/1998 – Italia</p>
-            </article>
-            <article>
-                <h4>Gianmarco Garofoli</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 123</p>
-                <p>06/10/2002 – Italia</p>
-            </article>
-            <article>
-                <h4>Ethan Hayter</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 124</p>
-                <p>18/09/1998 – Reino Unido</p>
-            </article>
-            <article>
-                <h4>Valentin Paret-Peintre</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 125</p>
-                <p>14/01/2001 – Francia</p>
-            </article>
-            <article>
-                <h4>Fabio Van den Bossche</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 126</p>
-                <p>21/09/2000 – Bélgica</p>
-            </article>
-            <article>
-                <h4>Mauri Vansevenant</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 127</p>
-                <p>01/06/1999 – Bélgica</p>
-            </article>
-            <article>
-                <h4>Filippo Zana</h4>
-                <img src="multimedia/ciclista-icono.png" alt="Icono genérico de un ciclista" width="128" height="128" />
-                <p>Dorsal: 128</p>
-                <p>18/03/1999 – Italia</p>
-            </article>
         </section>
     </main>
     <footer>

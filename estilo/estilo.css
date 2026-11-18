@@ -67,7 +67,7 @@ header a[aria-current="page"] {
 }
 
 /*Especificidad: 003*/
-header + nav > ol {
+search + nav > ol {
     font-size: 0.8em;
     list-style: none;
     margin: 0;
@@ -75,13 +75,34 @@ header + nav > ol {
 }
 
 /*Especificidad: 004*/
-header + nav > ol > li {
+search + nav > ol > li {
     display: inline;
 }
 
 /*Especificidad: 014*/
-header + nav > ol > li:last-child {
+search + nav > ol > li:last-child {
     font-weight: bold;
+}
+
+/* Contraste color principal sobre secundario: 10.02:1 (AAA) */
+/*Especificidad: 002*/
+header > button {
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
+    border: 1px solid var(--color-secundario);
+    font-size: 1.2em;
+}
+
+/*Especificidad: 011*/
+input[type="search"] {
+    border: none;
+}
+
+/* Texto negro sobre amarillo (#FFFF00): contraste 19.56:1 (AAA), independiente del fondo */
+/*Especificidad: 001*/
+mark {
+    background-color: #FFFF00;
+    color: var(--color-negro);
 }
 
 /*Especificidad: 014*/

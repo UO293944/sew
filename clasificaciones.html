@@ -17,11 +17,16 @@
     <!--Enlace a las hojas de estilo-->
     <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
     <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+
+    <!--Código ECMAScript-->
+    <script src="js/menu.js" defer></script>
+    <script src="js/buscador.js" defer></script>
 </head>
 
 <body>
     <header>
         <h1><a href="index.html" title="Ir a la página principal de LaVuelta2026">LaVuelta2026</a></h1>
+        <button type="button" aria-label="Abrir menú de navegación" aria-expanded="false">☰</button>
         <nav>
             <a href="index.html" title="Página de inicio de LaVuelta2026">Inicio</a>
             <a href="ciclista.html" title="Información sobre el ciclista">Ciclista</a>
@@ -33,6 +38,10 @@
             <a href="ayuda.html" title="Ayuda sobre el uso del sitio web">Ayuda</a>
         </nav>
     </header>
+    <search aria-label="Buscador">
+        <label for="busqueda"><img src="multimedia/buscador.png" alt="icono lupa" width="24" height="24" /></label>
+        <input type="search" id="busqueda" aria-label="Buscar" placeholder="Buscar…" />
+    </search>
     <nav aria-label="migas">
         <ol>
             <li><a href="index.html">Inicio</a></li>
